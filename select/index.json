@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "それを愛と呼ぶなら",
+  "base_artist": "Uru",
+  "createdAt": "2025-12-17T04:52:45.146380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_それを愛と呼ぶなら_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら - From THE FIRST TAKE",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/02_それを愛と呼ぶなら_-_From_THE_FIRST_TAKE_Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら (倘若称之为爱)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_それを愛と呼ぶなら_(倘若称之为爱)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/04_それを愛と呼ぶなら_Uru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら - Soreo Aito Yobunara",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_それを愛と呼ぶなら_-_Soreo_Aito_Yobunara_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら - From THE FIRST TAKE",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_それを愛と呼ぶなら_-_From_THE_FIRST_TAKE_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/07_それを愛と呼ぶなら_Uru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "それを愛と呼ぶなら -instrumental-",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_それを愛と呼ぶなら_-instrumental-_Uru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それを愛と呼ぶなら",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_それを愛と呼ぶなら_Uru.txt"
+    }
+  ]
+}
